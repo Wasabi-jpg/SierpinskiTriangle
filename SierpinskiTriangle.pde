@@ -1,11 +1,10 @@
-
 public void setup()
 {
 	size(800,800);
 }
 public void draw()
 {
-	sierpinski(0,800,20);
+	sierpinski(0,800,800);
 }
 public void mousePressed()//optional
 {
